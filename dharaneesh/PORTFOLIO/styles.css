@@ -1,0 +1,154 @@
+body {
+    font-family: burshscript;
+    margin: 1em;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: hsla(300, 3%, 36%, 0.856);
+    margin: 200;
+    margin: white;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+div {
+    color: white;
+}
+
+
+
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fefefe;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+section h2 {
+    color: #f9f8f8;
+}
+section p {
+    color: #f9f8f8;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin: 1em 0;
+}
+div {
+    border: #fffefe;
+}
+
+section h3 {
+    color: #f9f8f8;
+}
+img {
+    margin-right: 20px; 
+}
+
+section form {
+    color: #fffefe;
+    
+}
+
+section form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+section form {
+    align-content: center;
+}
+section form  {
+    align-items: center;
+    width: 300px;
+    height: 400PX; 
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section form  {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+section form label {
+    margin-bottom: 5px;
+}
+
+
+ button {
+    padding: 10px;
+    background-color: #4902fb;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.box {
+    align-items: center;
+    border: 0.1px solid blue;
+    padding: 0.5px;
+    width: fit-content;
+    background-color: #4902fb;
+}
+.box2 {
+    align-items: center;
+    border: 0.1px solid blue;
+    padding: 0.5px;
+    width: fit-content;
+    background-color: #4902fb;
+}
+.box3 {
+    align-items: center;
+    border: 0.1px solid blue;
+    padding: 0.5px;
+    width: fit-content;
+    background-color: #4902fb;
+}
+.box4 {
+    align-items: center;
+    border: 0.1px solid blue;
+    padding: 0.5px;
+    width: fit-content;
+    background-color: #4902fb;
+}
+    
+
+footer {
+    background-color: #333; 
+    color: #fff; 
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+}
+
+footer p {
+    margin: 0;
+}
